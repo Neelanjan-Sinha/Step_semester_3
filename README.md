@@ -1,18 +1,18 @@
-# Date: 04-09-2026
+# Date: 03-10-2026
 
 ---
 
 ### Today's Work:
 
-* Initialized repository and setup basic project structure.
-* Solved all assignment and practice problems for Sessions 1 to 4.
+* Solved questions from WEEK 9.
+* Solved assignment and  practice problems for Sessions 9.
 
 ### Next Session Plan:
 
-* Further review and refactoring.
+* Complete Session 9
 
 ### Issues Faced:
 
-* None
+* learning and applications of concepts took much time.
 
 ---
