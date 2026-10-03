@@ -9,7 +9,7 @@
 
 ### Next Session Plan:
 
-* Complete Session 9
+* Complete next session.
 
 ### Issues Faced:
 
