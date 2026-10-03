@@ -1,2 +1,2 @@
 # Step_semester_3
-All assignment and practice problems of step classes are added in this Repository.
+Practice Problems and Assignment problems of WEEK 5 are added in this branch repo.
